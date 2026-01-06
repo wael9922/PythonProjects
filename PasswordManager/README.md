@@ -36,6 +36,7 @@ The app can also generate strong random passwords and retrieve saved credentials
 ### 📌 User Interface
 
 A clean and simple password manager UI built with Tkinter.
+
 ![App UI](Screenshots/UI.png)
 
 ---
@@ -43,6 +44,7 @@ A clean and simple password manager UI built with Tkinter.
 ### 🔍 Search Feature
 
 Search any saved website to instantly retrieve its stored email and password.
+
 ![Search](Screenshots/search.png)
 
 ---
@@ -50,6 +52,7 @@ Search any saved website to instantly retrieve its stored email and password.
 ### ✅ Save Confirmation
 
 The app confirms before saving credentials to avoid mistakes.
+
 ![Confirmation](Screenshots/confirmation.png)
 
 ---
@@ -57,4 +60,6 @@ The app confirms before saving credentials to avoid mistakes.
 ### ⚠️ Validation Warning
 
 If required fields are empty, the app prevents saving and shows a warning.
+
 ![Warning](Screenshots/warning.png)
+
