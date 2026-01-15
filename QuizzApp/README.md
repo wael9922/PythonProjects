@@ -120,17 +120,21 @@ The app uses the [Open Trivia Database API](https://opentdb.com/):
   ![correct](Screenshots/count.png)
 
 - Questions
+  
   ![question](Screenshots/question.png)
 
 - **Visual Feedback**:
 
   - Green background for correct answers
+    
     ![correct](Screenshots/right_feedback.png)
 
   - Red background for incorrect answers
+    
     ![correct](Screenshots/wrong_feedback.png)
 
 - End of the Quiz
+  
   ![end](Screenshots/end.png)
 
 ## 🔄 How It Works
@@ -157,3 +161,4 @@ The app uses the [Open Trivia Database API](https://opentdb.com/):
 - [Open Trivia Database](https://opentdb.com/) for providing the free API
 - Angela Yu's 100 Days of Code bootcamp for project inspiration
 - Tkinter documentation and community
+
